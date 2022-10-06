@@ -20,7 +20,7 @@ Deployment Deployment Deployment Deployment Deployment Deployment Deployment Dep
 
 ## How to Contribute
 
-
+Please fork this repo and then issue pull requests for review.
 
 ## Copyrigth
 
