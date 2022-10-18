@@ -25,4 +25,4 @@ Please fork this repo and then issue pull requests for review.
 ## Copyrigth
 
 
-2022 Git.Training 
+2022 Git.Training. All rigth reserved.
